@@ -1,0 +1,23 @@
+# Basic Reachy
+reachy-sdk
+pyquaternion
+# TTS
+pyttsx3
+# Basic packages
+numpy
+scipy
+
+# Audio
+pydub
+pyaudio
+# ReachyAudioMicArrayFeatures
+gtts
+pyusb
+# reachyAudioAnswering 
+nltk
+torch
+
+# reachyAudioSpeechRecognition
+SpeechRecognition
+
+simpleaudio
